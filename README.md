@@ -7,7 +7,7 @@
  + 找到 Creat an Api Key，点击一下，创建一个Api Key.  
  + 找到Webhook Subscriptions ,点击Add a endpoint，填入自己的异步回调地址：  https://你的卡网域名/product/notify/?paymethod=coinpay
  + 点击回调地址 右边的Details，在弹出的窗口中 Events--->Edit, 在所有Events中仅仅勾选 charge:confirmed，然后点击保存
- + 
+ 
 
  + 将文件夹 coinpay  解压到网站目录application/library/Pay文件夹中，此时在Pay文件夹中会多出一个文件夹，名字分别为：coinpay
 
