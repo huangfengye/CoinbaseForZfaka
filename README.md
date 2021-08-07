@@ -21,7 +21,7 @@
  + 修改数据库，在faka数据库中运行下面的sql语句，建议使用宝塔环境的phpmyadmin软件进行修改，省时省力
 ```
 INSERT INTO `t_payment` (`payment`, `payname`, `payimage`, `alias`, `sign_type`, `app_id`, `app_secret`, `ali_public_key`, `rsa_private_key`, `configure3`, `configure4`, `overtime`, `active`) VALUES
-('CoinPay', 'CoinPay', '/res/images/pay/coinbase.png', 'coinoay', 'MD5', '', '', '', '', '', '', 6000, 0);
+('CoinPay', 'CoinPay', '/res/images/pay/coinbase.png', 'coinpay', 'MD5', '', '', '', '', '', '', 6000, 0);
 ```
  + 登录zfaka的后台，依次点击：设置中心->配置中心，在第三页修改参数“weburl”的值为你自己的网站域名url（必须修改，否则无法回调）
 
