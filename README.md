@@ -1,7 +1,7 @@
 # CoinbaseForZfaka
  ## 支持收取BTC,BCH,DAI,dogocoin,ETH,LTC,USDC
  ## 最终效果视频  
- https://www.bilibili.com/video/BV1k54y1Q7vK?share_source=copy_web
+ + https://www.bilibili.com/video/BV1k54y1Q7vK?share_source=copy_web
  ## 安装
  + 按照https://github.com/zlkbdotnet/zfaka  要求安装zfaka，建议使用页面中提示的宝塔教程进行安装，省时省力
 
