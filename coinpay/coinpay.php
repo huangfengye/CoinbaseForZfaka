@@ -2,7 +2,7 @@
 /**
  * File: coinbasepay.php
  * Functionality: coinbasepay -coinbasepay
- * Author: 黄枫叶
+ * Author: 落叶双飞hh
  * Date: 2021-08-7
  */
 namespace Pay\coinpay;
